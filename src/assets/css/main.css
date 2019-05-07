@@ -1,0 +1,49 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body{
+    margin: 0px;
+    background: #f1f1f1;
+}
+.menu-logo{
+    width: 200px;
+}
+.menu-home-logo{
+    height: 20px;
+}
+
+.menu-title{
+    vertical-align: -webkit-baseline-middle;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+.home-search-input{
+    display: inline-block;
+    width: 90%;
+}
+.home-search-submit{
+    display: inline-block;
+    width: 10%;
+}
+.home-search-submit Button{
+    outline: none;
+}
+.profile-view-field-label{
+    font-size: 12px;
+    color: #898989;
+}
+.profile-view-field-value {
+    font-size: 18px;
+    font-weight: 600;
+}
+.profile-view-field-value span{
+    border-left: solid 5px;
+    color: #303f9f;
+    padding-left: 10px;
+}
+.show-profile-box h1{
+    display: inline-block;
+}
+
